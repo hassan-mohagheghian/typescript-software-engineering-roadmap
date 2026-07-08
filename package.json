@@ -22,7 +22,6 @@
     "basics:16": "npx tsx TS_000_TypeScript_Basics/TS_16_primitives_vs_references.ts",
     "basics:17": "npx tsx TS_000_TypeScript_Basics/TS_17_strict_equality.ts",
     "basics:18": "npx tsx TS_000_TypeScript_Basics/TS_18_spread_operator.ts",
-    "basics:all": "npx tsx TS_000_TypeScript_Basics/TS_01_variables.ts && npx tsx TS_000_TypeScript_Basics/TS_02_data_types.ts && npx tsx TS_000_TypeScript_Basics/TS_03_operators.ts && npx tsx TS_000_TypeScript_Basics/TS_04_type_casting.ts && npx tsx TS_000_TypeScript_Basics/TS_05_truthy_falsy.ts && npx tsx TS_000_TypeScript_Basics/TS_06_strings.ts && npx tsx TS_000_TypeScript_Basics/TS_07_conditionals.ts && npx tsx TS_000_TypeScript_Basics/TS_08_loops.ts && npx tsx TS_000_TypeScript_Basics/TS_09_arrays.ts && npx tsx TS_000_TypeScript_Basics/TS_10_tuples.ts && npx tsx TS_000_TypeScript_Basics/TS_11_objects.ts && npx tsx TS_000_TypeScript_Basics/TS_12_sets.ts && npx tsx TS_000_TypeScript_Basics/TS_13_slicing.ts && npx tsx TS_000_TypeScript_Basics/TS_14_spread_rest.ts && npx tsx TS_000_TypeScript_Basics/TS_15_array_methods.ts && npx tsx TS_000_TypeScript_Basics/TS_16_primitives_vs_references.ts && npx tsx TS_000_TypeScript_Basics/TS_17_strict_equality.ts && npx tsx TS_000_TypeScript_Basics/TS_18_spread_operator.ts",
     "typecheck": "npx tsc --noEmit",
     "build": "npx tsc"
   },
